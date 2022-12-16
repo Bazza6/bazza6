@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Nazareno, a frontend developer based in Barcelona. I'm passionate about building beautiful and functional user interfaces. Currently learning Node.js and improving my skills in React on a daily basis. Looking for new challenges and opportunities to grow as a developer.
 <!--
 **Bazza6/bazza6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
